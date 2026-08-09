@@ -1,1 +1,3 @@
-# dstr-asgm-p2
+# WAREHOUSE ROBOT NAVIGATION SYSTEM
+
+## I was responsible with TASK 2: ROBOT ASSIGNMENT MODULE
