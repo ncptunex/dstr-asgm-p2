@@ -1,0 +1,11 @@
+orderID,customerName,itemID,orderStatus,assignedRobotID,priority,orderTime
+ORD001,Lucas,I001,In_Progress,R002,High,10:30
+ORD002,Mia,I003,In_Progress,R001,Medium,10:35
+ORD003,Ethan,I002,In_Progress,R004,Low,10:40
+ORD004,Sophia,I004,In_Progress,R006,High,10:45
+ORD005,Nicholas,I005,Pending,NULL,Medium,10:50
+ORD006,Zara,I002,Pending,NULL,Low,10:55
+ORD007,Arai,I001,Completed,R001,Medium,11:00
+ORD008,Rory,I003,Pending,NULL,Low,11:05
+ORD009,charl,I002,Pending,NULL,High,22:34
+ORD010,2222,222,Pending,NULL,Medium,17:11

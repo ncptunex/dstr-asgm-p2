@@ -1,0 +1,6 @@
+itemID,itemName,quantity,categoryID,zone,aisle,shelf
+I001,Cyber,0,C001,Z1,A2,S5
+I002,Laptop,1,C001,Z1,A3,S1
+I003,Instant Noodles,2,C002,Z2,A1,S4
+I004,Shampoo,3,C003,Z3,A5,S2
+I005,T-Shirt,4,C004,Z4,A4,S6

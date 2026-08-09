@@ -1,0 +1,8 @@
+robotID,robotName,status,currentTask,totalTasks,maintenance
+R001,iRobot,Busy,ORD002,6,No
+R002,Taygedo,Busy,ORD001,2,No
+R003,PixelPal,Maintenance,NULL,7,Yes
+R004,RoboRex,Busy,ORD003,4,No
+R005,ByteBot,Available,NULL,6,No
+R006,Zyro,Busy,ORD004,1,No
+R007,Cyher,Available,NULL,2,No
